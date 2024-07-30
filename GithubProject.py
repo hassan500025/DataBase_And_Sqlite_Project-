@@ -1,4 +1,4 @@
-    # DataBase And Sqlite Project (Teacher Code) :
+    # DataBase And Sqlite Project :
     # Sqlite3, Bcrypt Package :
 
 import sqlite3
